@@ -37,6 +37,10 @@
 
 ## 2. Process
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/48678866/217632326-0513fea5-b3af-488a-9d1f-7b14599ef8ae.png" width="800" height="500">
+</p>
+  
 ---
 
 ## 3. Demo
@@ -56,6 +60,38 @@
 ---
 
 ## 6. How to Use
+
+### File Directory
+
+```bash
+├── codes
+│   ├── corr_given_time.py
+│   ├── get_anual.py
+│   └── inference_price.py
+├── dags
+│   └── operator_dag.py
+├── data
+│   ├── 2016keyword.csv
+│   ├── 2017keyword.csv
+│   ├── 2018keyword.csv
+│   ├── 2019keyword.csv
+│   ├── 2020keyword.csv
+│   ├── 2021keyword.csv
+│   ├── 2022keyword.csv
+│   ├── ensemble_tomorrow_price.txt
+│   ├── final_candi_list.csv
+│   ├── final_candi_search_volume.json
+│   └── predict_past.csv
+├── pages
+│   ├── get_keywords.py
+│   └── price_inference.py
+├── .gitignore
+├── README.md
+├── main.py
+└── requirements.txt
+```
+
+### 가상환경 
 
 ```
 # 가상환경 생성
@@ -88,32 +124,3 @@ export AIRFLOW_HOME=~/nlp02
 airflow scheduler
 ```
 ---
-## File Directory
-
-```bash
-├── codes
-│   ├── corr_given_time.py
-│   ├── get_anual.py
-│   └── inference_price.py
-├── dags
-│   └── operator_dag.py
-├── data
-│   ├── 2016keyword.csv
-│   ├── 2017keyword.csv
-│   ├── 2018keyword.csv
-│   ├── 2019keyword.csv
-│   ├── 2020keyword.csv
-│   ├── 2021keyword.csv
-│   ├── 2022keyword.csv
-│   ├── ensemble_tomorrow_price.txt
-│   ├── final_candi_list.csv
-│   ├── final_candi_search_volume.json
-│   └── predict_past.csv
-├── pages
-│   ├── get_keywords.py
-│   └── price_inference.py
-├── .gitignore
-├── README.md
-├── main.py
-└── requirements.txt
-```
