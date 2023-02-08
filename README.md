@@ -5,7 +5,7 @@
 
 ## Table of Contents
 0. [Archive](https://github.com/boostcampaitech4lv23nlp1/final-project-level3-nlp-02#0-archive)
-1. [Introduction](https://github.com/boostcampaitech4lv23nlp1/final-project-level3-nlp-02#1-introduction)
+1. [Team](https://github.com/boostcampaitech4lv23nlp1/final-project-level3-nlp-02#1-team)
 2. [Process](https://github.com/boostcampaitech4lv23nlp1/final-project-level3-nlp-02#2-process)
 3. [Demo](https://github.com/boostcampaitech4lv23nlp1/final-project-level3-nlp-02#3-demo)
 4. [Data](https://github.com/boostcampaitech4lv23nlp1/final-project-level3-nlp-02#4-data)
@@ -18,7 +18,7 @@
 
 ---
 
-## 1. Introduction
+## 1. Team
 
 ### Members
 [고우진_T4006]()|[김상윤_T4036]()|[현승엽_T4231]()|
@@ -79,6 +79,7 @@
 
 #### LSTM
 
+<img src="https://user-images.githubusercontent.com/48678866/217641005-14463045-93c1-4e30-bd64-dcdb25e20bb3.png" width="40%">
 
 ---
 <br>
