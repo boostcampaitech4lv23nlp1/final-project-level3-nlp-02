@@ -17,7 +17,7 @@
 ## 0. Archive
 
 [📹 발표 영상](https://youtu.be/tZWLKHwTNTU) <br>
-[📄 발표 자료]()
+[📄 발표 자료](https://drive.google.com/file/d/1CscioUS-JbiSrIL7DuPMJpFcQl4-HL3P/view?usp=share_link)
 
 ---
 
