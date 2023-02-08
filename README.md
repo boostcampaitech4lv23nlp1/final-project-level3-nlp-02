@@ -16,6 +16,9 @@
 
 ## 0. Archive
 
+[📹 발표 영상](https://youtu.be/tZWLKHwTNTU) <br>
+[📄 발표 자료]()
+
 ---
 
 ## 1. Team
