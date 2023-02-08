@@ -44,7 +44,9 @@
 ---
 
 ## 3. Demo
+### 🖥️ Web 예시(Streamlit)
 
+<img src="https://user-images.githubusercontent.com/66728415/217633520-359aca2e-18b6-41d3-8e27-2254a22064ae.gif">
 --- 
 
 ## 4. Data
