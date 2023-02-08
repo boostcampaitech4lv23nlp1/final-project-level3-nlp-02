@@ -45,15 +45,7 @@
 ---
 <br>
 
-## 3. Demo
-### 🖥️ Web 예시(Streamlit)
-
-<img src="https://user-images.githubusercontent.com/66728415/217633520-359aca2e-18b6-41d3-8e27-2254a22064ae.gif">
-
---- 
-<br>
-
-## 4. Data
+## 3. Data
 
 > **Namuwiki Text** : huggingface에 업로드되어 있는 [덤프파일](https://huggingface.co/datasets/heegyu/namuwiki-extracted) 이용<br>
 > **Seed keyword** : [통계청 제공 경제키워드](https://data.kostat.go.kr/social/keyword/index.do), 논문, 구글링을 통해 KOSPI와 연관성 높은 키워드 지정<br>
@@ -62,7 +54,7 @@
 ---
 <br>
 
-## 5. Model
+## 4. Model
   
 ### For Text Embedding
   
@@ -86,6 +78,15 @@
 
 
 ---
+<br>
+
+## 5. Demo
+### 🖥️ Web 예시(Streamlit)
+
+<img src="https://user-images.githubusercontent.com/66728415/217637499-b8743dd9-fdff-4c96-a00f-8f36fbb2df95.gif">
+<img src="https://user-images.githubusercontent.com/66728415/217637712-a6a22806-cdc3-42cf-a1bf-d7f50b72f27f.gif">
+
+
 <br>
 
 ## 6. How to Use
