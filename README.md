@@ -81,6 +81,9 @@
 <br>
 
 ## 5. Demo
+### 서비스 구조
+<img src="https://user-images.githubusercontent.com/66728415/217638602-f9836b42-db91-477b-b708-6dd006d0d5b2.png" width="70%">
+
 ### 🖥️ Web 예시(Streamlit)
 
 <img src="https://user-images.githubusercontent.com/66728415/217637499-b8743dd9-fdff-4c96-a00f-8f36fbb2df95.gif" width="70%">
