@@ -23,7 +23,7 @@
 ### Members
 [고우진_T4006]()|[김상윤_T4036]()|[현승엽_T4231]()|
 |:-:|:-:|:-:|
-|<img src="https://user-images.githubusercontent.com/48678866/217627058-ed04a1ab-4cf2-4be3-b2cf-ed83583c57fb.png" width="150" height="200">|<img src="https://user-images.githubusercontent.com/48678866/217627098-becef973-2b54-4aa4-8720-77d360818dfa.png" width="150" height="200">|<img src="https://user-images.githubusercontent.com/48678866/217627082-aa8f79f7-e580-410a-88bf-ef1b53b000d1.png" width="150" height="200">|
+|<a href=""><img src="https://user-images.githubusercontent.com/48678866/217627058-ed04a1ab-4cf2-4be3-b2cf-ed83583c57fb.png" width="150" height="200"></a>|<a href=""><img src="https://user-images.githubusercontent.com/48678866/217627098-becef973-2b54-4aa4-8720-77d360818dfa.png" width="150" height="200"></a>|<a href=""><img src="https://user-images.githubusercontent.com/48678866/217627082-aa8f79f7-e580-410a-88bf-ef1b53b000d1.png" width="150" height="200"></a>|
 
 ### Contribution
 
@@ -34,6 +34,7 @@
 | 현승엽 | 논문 조사, 데이터 EDA, 검색량 데이터 수집, Embedding model 구현 및 학습 |
 
 ---
+<br>
 
 ## 2. Process
 
@@ -42,12 +43,15 @@
 </p>
   
 ---
+<br>
 
 ## 3. Demo
 ### 🖥️ Web 예시(Streamlit)
 
 <img src="https://user-images.githubusercontent.com/66728415/217633520-359aca2e-18b6-41d3-8e27-2254a22064ae.gif">
+
 --- 
+<br>
 
 ## 4. Data
 
@@ -56,10 +60,33 @@
 > **네이버 검색량** : [네이버 Developers](https://developers.naver.com/main/) 데이터랩 API 이용하여 수집 <br>
 > **KOSPI index** : 야후 파이낸스에서 제공하는 KOSPI(코드 : ^KS11) - [yfinance](https://github.com/ranaroussi/yfinance) 라이브러리 활용하여 수집
 ---
+<br>
 
 ## 5. Model
+  
+### For Text Embedding
+  
+#### KLUE RoBERTa large ([Link](https://huggingface.co/klue/roberta-large))
+
+> RoBERTa 모델을 한국어 데이터(KLUE)를 이용해 pre-training한 언어 모델
+  
+#### KPF-BERT ([Link](https://github.com/KPFBERT/kpfbert))
+
+> 한국언론진흥재단에서 구축한 20년치에 달하는 약 4천만 건의 뉴스기사 데이터를 이용해 학습한 모델
+  
+#### KB-ALBERT ([Link](https://github.com/KB-AI-Research/KB-ALBERT))
+
+> 구글의 ALBERT에 경제/금융 도메인에 특화된 대량의 한국어 데이터를 학습시킨 모델
+
+<br>
+
+### For Predicting KOSPI index
+
+#### LSTM
+
 
 ---
+<br>
 
 ## 6. How to Use
 
