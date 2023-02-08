@@ -27,6 +27,12 @@
 
 ### Contribution
 
+| Member | Contribution | 
+| --- | --- |
+| 고우진(**PM**) | 논문 조사, Embedding model 구현 및 학습, Price prediction model 구현 및 학습 |
+| 김상윤 | 데이터 구축 및 처리, Embedding model 구현 및 학습, Demo 제작, Batch serving 구축 |
+| 현승엽 | 논문 조사, 데이터 EDA, 검색량 데이터 수집, Embedding model 구현 및 학습 |
+
 ---
 
 ## 2. Process
