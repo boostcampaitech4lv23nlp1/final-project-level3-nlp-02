@@ -45,10 +45,10 @@
 
 ## 4. Data
 
-> **Namuwiki Text** : huggingface에 업로드되어 있는 [덤프파일](https://huggingface.co/datasets/heegyu/namuwiki-extracted) 이용
-> **Seed keyword** : [통계청 제공 경제키워드](https://data.kostat.go.kr/social/keyword/index.do), 논문, 구글링을 통해 KOSPI와 연관성 높은 키워드 지정
-> **네이버 검색량** : [네이버 Developers](https://developers.naver.com/main/) 데이터랩 API 이용하여 수집 
-> **KOSPI index** : 야후 파이낸스에서 제공하는 KOSPI(코드 : ^KS11) _ [yfinance](https://github.com/ranaroussi/yfinance) 라이브러리 활용하여 수집
+> **Namuwiki Text** : huggingface에 업로드되어 있는 [덤프파일](https://huggingface.co/datasets/heegyu/namuwiki-extracted) 이용<br>
+> **Seed keyword** : [통계청 제공 경제키워드](https://data.kostat.go.kr/social/keyword/index.do), 논문, 구글링을 통해 KOSPI와 연관성 높은 키워드 지정<br>
+> **네이버 검색량** : [네이버 Developers](https://developers.naver.com/main/) 데이터랩 API 이용하여 수집 <br>
+> **KOSPI index** : 야후 파이낸스에서 제공하는 KOSPI(코드 : ^KS11) - [yfinance](https://github.com/ranaroussi/yfinance) 라이브러리 활용하여 수집
 ---
 
 ## 5. Model
