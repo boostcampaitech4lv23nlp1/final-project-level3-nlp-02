@@ -83,8 +83,8 @@
 ## 5. Demo
 ### 🖥️ Web 예시(Streamlit)
 
-<img src="https://user-images.githubusercontent.com/66728415/217637499-b8743dd9-fdff-4c96-a00f-8f36fbb2df95.gif">
-<img src="https://user-images.githubusercontent.com/66728415/217637712-a6a22806-cdc3-42cf-a1bf-d7f50b72f27f.gif">
+<img src="https://user-images.githubusercontent.com/66728415/217637499-b8743dd9-fdff-4c96-a00f-8f36fbb2df95.gif" width="70%">
+<img src="https://user-images.githubusercontent.com/66728415/217637712-a6a22806-cdc3-42cf-a1bf-d7f50b72f27f.gif" width="70%">
 
 
 <br>
